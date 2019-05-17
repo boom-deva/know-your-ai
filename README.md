@@ -1,4 +1,4 @@
-# Developing a Framework to Address Bias, Racism, and Sexism in Facial Recognition 
+# Know Your AI: Developing a Framework to Address Bias, Racism, and Sexism in Facial Recognition 
 ## Training a Convolutional Neural Network (CNN) to Recognize Multicultural Facial Expressions
 ![image of rasas](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/navarasa_banner.png?raw=true)
 
