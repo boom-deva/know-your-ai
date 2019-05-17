@@ -29,6 +29,7 @@ Racism, sexism, and bias exists in AI because of what type of data is collected,
 
 ## Modeling
 I implemented three models that could predict facial expression. The most effective was model #2.
+<br>
 <br> 
 **Model #1: CNN on original dataset of 1,032 images**
   - Test loss: 1.42
