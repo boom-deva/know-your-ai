@@ -28,7 +28,8 @@ Racism, sexism, and bias exists in AI because of what type of data is collected,
 | **Assessing Predictions**                    | I visualized the probability of predicting certain emotions for each image, a confusion matrix, and predicted versus actual results. |
 
 ## Modeling
-I implemented three models that could predict facial expression. The most effective was model #2. 
+I implemented three models that could predict facial expression. The most effective was model #2.
+<br> 
 **Model #1: CNN on original dataset of 1,032 images**
   - Test loss: 1.42
   - Test accuracy: 63.7% 
