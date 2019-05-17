@@ -53,7 +53,7 @@ Working on this project was challenging and exhilarating at the same time. I was
 ## Sources 
 **Images**
 <br>
-I hand-selected images from each of these sources. Keep in mind that many royalty-free stock photo resources do not include a wide variety of emotion expression images. The Kanade and Brazilian FEI databases do not allow me to republish or share the images from their databases. Therefore when running this notebook, you can only start by uploading the csv file containing pixel data. **Because image rights for certain images, this notebook can only be used for research purposes, and no images from this notebook shall be reproduced elsewhere.**
+I hand-selected images from each of these sources. Keep in mind that many royalty-free stock photo resources do not include a wide variety of emotion expression images. The Kanade and Brazilian FEI databases do not allow me to republish or share the images from their databases. Therefore when running this notebook, you can only start by uploading the csv file containing pixel data. **Because of image rights for certain images, this notebook can only be used for research purposes, and no images from this notebook shall be reproduced elsewhere. Appropriate image credit is given where necessary.**
   - [Vice’s Gender Spectrum Collection](https://broadlygenderphotos.vice.com)
   - [Flickr](https://www.flickr.com/) 
   - [Pexels](https://www.pexels.com/)
