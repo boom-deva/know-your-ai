@@ -2,7 +2,17 @@
 ## Training a Convolutional Neural Network (CNN) to Recognize Multicultural Facial Expressions
 ![image of rasas](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/navarasa_banner.png?raw=true)
 
-
+**Note:** _Because of image rights for certain images, this notebook can only be used for research purposes, and no images from this notebook shall be reproduced elsewhere. Appropriate image credit is given where necessary. Therefore, the images used in this project cannot be shared in this repository. So when running this notebook, you can only start by uploading the csv file containing pixel data. For more explanation, see [Sources](#Sources) section of this README._
+<br>
+## README Contents
+ - [Abstract](#Abstract)
+ - [Methodology](#Methodology)
+ - [Modeling](#Modeling)
+ - [Model Evaluation](#Model-Evaluation)
+ - [Conclusions and Next Steps](#Conclusions-and-Next-Steps)
+ - [Sources](#Sources)
+ - [Acknowledgements](#Acknowledgements)
+ 
 ## Abstract
 Racism, sexism, and bias exists in AI because of what type of data is collected, who creates the algorithms, and the frameworks used to design those algorithms. Any attempt to remove bias from AI that does not take into consideration _at least_ these three stipulations is a farce. As a person who loves a good challenge and is deeply concerned about this topic, I developed a project-based intervention that addresses bias, racism, and sexism in AI, focusing particularly on facial expression recognition. **Here’s what I did: I trained a convolutional neural network (CNN) on images of people of color, gender non-conforming people, young and old people, and people with prominent facial accessories and predicted their facial expressions according to the nine emotions defined by the South Asian emotion spectrum called the “navarasa” (“nava” = nine, “rasa” = emotion).** If this sounds complicated, it’s supposed to be—because eliminating bias from AI requires careful thought and meticulous strategy in order to be truly effective. To complete this project, I created a small, handpicked image dataset, pre-processed the images for modeling, trained my dataset on CNN models, and assessed my predictions. The model with the best fit augmented my image data, and the accuracy score was 69% compared to a baseline score of 12%. Considering the size and quality of my dataset, I am pleased with my results and can use this model as a starting point to train an even larger and better quality dataset. 
 ![navarasa_faces.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/navarasa_faces.png?raw=true)
