@@ -61,8 +61,8 @@ Below is a confusion matrix that shows true versus predicted emotions. The model
   - bibhatsa (disgust) and adbhuta (astonishment)
   - srngara (love) and veera (confidence)
   - roudra (anger) and bibhatsa (disgust)
-<br>
-![conf_matrix](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/conf_matrix.png?raw=true)
+
+![conf_matrix.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/conf_matrix.png?raw=true)
 
 ## Conclusions and Next Steps 
 Working on this project was challenging and exhilarating at the same time. I was surprised at the results of my model considering the small dataset and lack of distinct facial expressions belonging to the nine categories. This project can be used as a starting point to expand this project into something bigger. I hope to contribute my skills as a data scientist and researcher to the larger movement of building more inclusive and equitable AI algorithms. 
