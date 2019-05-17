@@ -41,6 +41,7 @@ I implemented three models that could predict facial expression. The most effect
 
 ## Model Evaluation
 The following image and probability comparisons show what the image and actual emotion is, compared to the predicted emotion is and the probabilities of each emotion that the CNN model detected on the face. You'll see that some images have a high probability of one or two emotions, while others have a wide ranging distribution of predicted emotions. **See notebook for more evaluation visualizations.** 
+<br>
 ![proba_1.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_1.png?raw=true)
 <br>
 ![proba_2.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_2.png?raw=true)
