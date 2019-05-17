@@ -40,8 +40,9 @@ I implemented three models that could predict facial expression. The most effect
 ![model_3.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/model_3.png?raw=true)
 
 ## Model Evaluation
-The following image and probability comparisons show what the image and actual emotion is, compared to the predicted emotion is and the probabilities of each emotion that the CNN model detected on the face. You'll see that some images have a high probability of one or two emotions, while others have a wide ranging distribution of predicted emotions.
+The following image and probability comparisons show what the image and actual emotion is, compared to the predicted emotion is and the probabilities of each emotion that the CNN model detected on the face. You'll see that some images have a high probability of one or two emotions, while others have a wide ranging distribution of predicted emotions. **See notebook for more evaluation visualizations.** 
 ![proba_1.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_1.png?raw=true)
+<br>
 ![proba_2.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_2.png?raw=true)
 
 ## Conclusions and Next Steps 
@@ -52,7 +53,7 @@ Working on this project was challenging and exhilarating at the same time. I was
 <br>
 I hand-selected images from each of these sources. Keep in mind that many royalty-free stock photo resources do not include a wide variety of emotion expression images. The Kanade and Brazilian FEI databases do not allow me to republish or share the images from their databases. Therefore when running this notebook, you can only start by uploading the csv file containing pixel data. **Because image rights for certain images, this notebook can only be used for research purposes, and no images from this notebook shall be reproduced elsewhere.**
   - [Vice’s Gender Spectrum Collection](https://broadlygenderphotos.vice.com)
-  - [Flickr](https://www.flickr.com/)] 
+  - [Flickr](https://www.flickr.com/) 
   - [Pexels](https://www.pexels.com/)
   - [Unsplash](https://unsplash.com/)
   - [Women of Color in Tech stock photos](https://www.flickr.com/photos/wocintechchat/) 
