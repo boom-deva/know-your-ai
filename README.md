@@ -56,6 +56,13 @@ The following image and probability comparisons show what the image and actual e
 ![proba_1.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_1.png?raw=true)
 <br>
 ![proba_2.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_2.png?raw=true)
+<br>
+Below is a confusion matrix that shows true versus predicted emotions. The model tended to confuse the following emotions with each other: 
+  - bibhatsa (disgust) and adbhuta (astonishment)
+  - srngara (love) and veera (confidence)
+  - roudra (anger) and bibhatsa (disgust)
+<br>
+![conf_matrix](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/conf_matrix.png?raw=true)
 
 ## Conclusions and Next Steps 
 Working on this project was challenging and exhilarating at the same time. I was surprised at the results of my model considering the small dataset and lack of distinct facial expressions belonging to the nine categories. This project can be used as a starting point to expand this project into something bigger. I hope to contribute my skills as a data scientist and researcher to the larger movement of building more inclusive and equitable AI algorithms. 
