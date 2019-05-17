@@ -57,6 +57,7 @@ The following image and probability comparisons show what the image and actual e
 <br>
 ![proba_2.png](https://github.com/jasminevasandani/know-your-ai/blob/master/notebook_images/proba_2.png?raw=true)
 <br>
+<br>
 Below is a confusion matrix that shows true versus predicted emotions. The model tended to confuse the following emotions with each other: 
   - bibhatsa (disgust) and adbhuta (astonishment)
   - srngara (love) and veera (confidence)
